@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "gamecore-lib": "^0.13.22",
-    "gamecore-message": "^1.0.5",
+    "gamecore-lib": "git://github.com/gamecreditspay/gamecore-lib.git",
+    "gamecore-message": "git://github.com/gamecreditspay/gamecore-message.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
