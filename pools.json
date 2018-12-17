@@ -39,8 +39,8 @@
 		]
 	},
 	{
-	  	"poolName": "LitecoinPool",
-	  	"url": "https://litecoinpool.org",
+	  	"poolName": "GamecreditsPool",
+	  	"url": "https://gamecreditspool.org",
 	  	"searchStrings": [
 		  	"/LP/"
 		]
