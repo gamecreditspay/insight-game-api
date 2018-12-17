@@ -32,10 +32,10 @@
 		]
 	},
 	{
-		"poolName": "LTC.TOP",
+		"poolName": "GAME.TOP",
 		"url": "http://",
 		"searchStrings": [
-			"LTC.TOP"
+			"GAME.TOP"
 		]
 	},
 	{
@@ -54,7 +54,7 @@
 	},
 	{
 		"poolName": "TBDice",
-		"url": "http://ltc.tbdice.org/",
+		"url": "http://game.tbdice.org/",
 		"searchStrings": [
 			"TBDice"
 		]
